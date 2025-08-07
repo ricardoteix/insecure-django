@@ -10,4 +10,4 @@ This is a deliberately written insecure implementation of django to promote Secu
 1. Install Python3, Django
 2. `pip install -r requirements.txt`
 
-Configured with SonarCloud
+Configured with SonarCloud Actions
